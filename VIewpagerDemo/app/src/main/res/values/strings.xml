@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VIewpagerDemo</string>
+
+    <string name="title_1">One card</string>
+    <string name="title_2">Two card</string>
+    <string name="title_3">Three card</string>
+    <string name="title_4">Four card</string>
+
+    <string name="text">ViewPagerCard demo you can see three item at one time</string>
+</resources>
